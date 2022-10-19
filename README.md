@@ -1,5 +1,6 @@
 
 # My Tech Blog
+![screnshot](https://github.com/rafiqnasrat/14challange/blob/main/14challange.png)
 
 ## Description
 Hello, This is a CMS blog site developed with node js, express js and MVC Paradigm, In the blog site you can post posts and can update your post, delete your post and other visitors can leave comments, and everyone can signup, create account and post a blog using the dashboard.
